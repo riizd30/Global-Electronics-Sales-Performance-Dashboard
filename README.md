@@ -1,7 +1,5 @@
 # 📊 Global Electronics Sales Performance Dashboard
 
-![Dashboard Preview](dashboard.png)
-
 ## 📌 Project Overview
 This project presents an interactive sales performance dashboard built using **Tableau Public**, analyzing global electronics retail data across 9 countries from 2016 to 2021. The dashboard is designed to provide actionable business insights for sales performance monitoring, product analysis, and regional market evaluation.
 
