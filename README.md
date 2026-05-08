@@ -33,7 +33,7 @@ This project presents an interactive sales performance dashboard built using **T
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 | Tool | Purpose |
 |------|---------|
 | **Tableau Public** | Dashboard development and data visualization |
@@ -51,7 +51,7 @@ This project presents an interactive sales performance dashboard built using **T
 
 ---
 
-## 💡 Key Insights
+## Key Insights & Recommendations
 > 🇺🇸 **United States** dominates revenue at **$24M**, followed by Online channel at **$11M**
 
 > **Computers** is the top performing category at **$19M**, representing the largest share of total revenue
@@ -71,7 +71,7 @@ This project presents an interactive sales performance dashboard built using **T
 
 ---
 
-## 🔗 Links
+## Links
 | Resource | Link |
 |----------|------|
 | 📊 Interactive Dashboard | [View on Tableau Public](#) |
