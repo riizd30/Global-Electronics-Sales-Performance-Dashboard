@@ -1,6 +1,6 @@
-# 📊 Global Electronics Sales Performance Dashboard
+# Global Electronics Sales Performance Dashboard
 
-## 📌 Project Overview
+## Project Overview
 This project presents an interactive sales performance dashboard built using **Tableau Public**, analyzing global electronics retail data across 9 countries from 2016 to 2021. The dashboard is designed to provide actionable business insights for sales performance monitoring, product analysis, and regional market evaluation.
 
 ---
@@ -14,7 +14,7 @@ This project presents an interactive sales performance dashboard built using **T
 
 ---
 
-## 📁 Dataset
+## Dataset
 | Detail | Information |
 |--------|-------------|
 | **Source** | Maven Analytics — Global Electronics Retailer Dataset |
@@ -54,17 +54,17 @@ This project presents an interactive sales performance dashboard built using **T
 ## 💡 Key Insights
 > 🇺🇸 **United States** dominates revenue at **$24M**, followed by Online channel at **$11M**
 
-> 💻 **Computers** is the top performing category at **$19M**, representing the largest share of total revenue
+> **Computers** is the top performing category at **$19M**, representing the largest share of total revenue
 
-> 📈 **Peak revenue** of **$2.47M** was recorded in **2019**
+> **Peak revenue** of **$2.47M** was recorded in **2019**
 
-> 🔄 **61.18% repeat purchase rate** indicates strong customer loyalty
+> **61.18% repeat purchase rate** indicates strong customer loyalty
 
-> 📉 Significant decline in 2021 metrics reflects **incomplete data for that year (partial year)**, not actual business performance
+> Significant decline in 2021 metrics reflects **incomplete data for that year (partial year)**, not actual business performance
 
 ---
 
-## ⚠️ Data Notes
+## Data Notes
 - All revenue figures are presented in **USD**
 - The significant decline in 2021 KPI metrics reflects incomplete data for that year (partial year), not actual business performance
 - `Delivery Date` column in Sales table contains approximately 75% null values and was excluded from analysis
@@ -80,7 +80,7 @@ This project presents an interactive sales performance dashboard built using **T
 
 ---
 
-## 👤 Author
+## Author
 **Muhammad Rizky**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhrizd30-blue?style=flat&logo=linkedin)](https://linkedin.com/in/muhrizd30)
